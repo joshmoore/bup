@@ -1,6 +1,8 @@
 bup: It backs things up
 =======================
 
+[![Build Status](https://travis-ci.org/bup/bup.png)](http://travis-ci.org/bup/bup)
+
 bup is a program that backs things up.  It's short for "backup." Can you
 believe that nobody else has named an open source program "bup" after all
 this time?  Me neither.
